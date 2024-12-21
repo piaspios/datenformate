@@ -10,3 +10,19 @@ body {
 header h1::before {
   content: url("../images/pcicon.png") " ";
 }
+
+header {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-bottom: 1px dashed $conifer; //header;
+  padding: 20px 0;
+  margin: 0 0 20px 0;
+}
+
+footer {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-top: 1px dashed $conifer; //footer;
+  padding: 20px 0;
+  margin: 20px 0 0 0;
+}
