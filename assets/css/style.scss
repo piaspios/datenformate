@@ -6,3 +6,8 @@
 body { 
   background: #333131 !important; 
 }
+
+header h1:before {
+  content: "";
+  font-size: 24px;
+}
