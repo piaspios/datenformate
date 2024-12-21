@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Einführung
 date: 2024-11-10
 ---
