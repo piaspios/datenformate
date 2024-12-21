@@ -7,8 +7,12 @@ body {
   background: #333131 !important; 
 }
 
-header h1::before {
-  content: url("../images/pcicon.png") " ";
+.main_container {
+  position: relative;
+  min-height: 100vh;
+  width: 90%;
+  max-width: $container-max-width;
+  margin: 0 auto;
 }
 
 header {
@@ -17,6 +21,10 @@ header {
   border-bottom: 1px dashed $conifer; //header;
   padding: 20px 0;
   margin: 0 0 20px 0;
+}
+
+header h1::before {
+  content: url("../images/pcicon.png") " ";
 }
 
 footer {
