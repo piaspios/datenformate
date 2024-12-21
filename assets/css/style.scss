@@ -7,6 +7,6 @@ body {
   background: #333131 !important; 
 }
 
-header h1:before {
-  content: url("../images/PC_ICON_-Orange_Screen.png");
+header h1::before {
+  content: url("../../images/PC_ICON_-Orange_Screen.png");
 }
