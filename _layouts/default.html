@@ -25,7 +25,10 @@
       <section id="main_content">
         {{ content }}
       </section>
-      <footer>
+    </div>
+
+    <footer>
+      <div class="container">
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
@@ -33,10 +36,8 @@
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
-      </footer
-    </div>
-
-    
+      </div>
+  </footer
       
   </body>
 </html>
