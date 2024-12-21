@@ -4,11 +4,11 @@ title: Datenformate
 
 ## Homepage
 
-Einführung[Link]
+[Einführung](https://piaspios.github.io/datenformate/2024/11/10/einfuehrung.html)
 
-Tag/Thema 1[Link]
+[Tag 1: Terminologie](https://piaspios.github.io/datenformate/2024/11/10/tag1.html)
 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
 
 [Styles](https://piaspios.github.io/datenformate/2024/12/21/examples.html).
