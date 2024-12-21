@@ -3,8 +3,6 @@ title: Einführung
 date: 2024-11-10
 ---
 
-## Einführung
-
 ### Ein Lern-wasbitte?
 Mein Lerntagebuch fängt intelligenterweise 4 Wochen an, nachdem die ersten Vorlesungen zu dem Thema rum sind. Hab ich alles wieder vergessen? Wahrscheinlich nicht, aber zwischen dem, was ich vergessen habe, und dem, was ich damals schon nicht verstanden habe... Uff.
 
