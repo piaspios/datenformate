@@ -62,3 +62,8 @@ hr {
   border-bottom: 1px dashed $hlorange;
   color: $hlorange;
 }
+
+.btn-cc .icon {
+  opacity: 0.6;
+  background: url("../images/ccsmall.png") url("../images/bysmall.png") 0 0 no-repeat;
+}
