@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+$conifer: #fb7e14 !important;
+
 body { 
   background: #333131 !important; 
 }
@@ -33,4 +35,13 @@ footer {
   border-top: 1px dashed $conifer; //footer;
   padding: 20px 0;
   margin: 20px 0 0 0;
+}
+
+pre {
+  color: $conifer;
+}
+
+hr {
+  border-bottom: 1px dashed $conifer;
+  color: $conifer;
 }
