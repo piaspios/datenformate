@@ -15,4 +15,6 @@ Das Tagebuch, genau wie das Teilmodul, dreht sich ums Thema Datenformate - vermu
 Ich denke, das Modul Datenformate zu verstehen hat weniger damit zu tun, alle diese Dinge auswendig zu kennen und mehr damit, grundsätzliche Zusammenhänge in Datenstrukturen identifizieren zu können, wie man diese für die eigenen Zwecke ausnutzen und Abläufe automatisieren kann, wie und wo man Hilfe und Inspiration zu dem Thema findet, um nicht jedes Mal das Rad neu erfinden zu müssen. Allerdings müsste ich, um diese These zu überprüfen, jetzt auch mal aufhören, nur Einleitung zu schreiben. Mal schauen, ob ich recht behalte ;).
 
 
+
+
 | [Zurück zur Homepage](https://piaspios.github.io/datenformate/) | [Weiter zum nächsten Eintrag](https://piaspios.github.io/datenformate/2024/11/10/tag1.html) | | |
