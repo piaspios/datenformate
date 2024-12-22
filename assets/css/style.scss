@@ -17,6 +17,10 @@ body {
   margin: 0 auto;
 }
 
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
@@ -38,15 +42,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-top: 1px dashed $hlorange; //footer;
+  padding-bottom: 2.5rem; 
   padding: 20px 0;
   margin: 20px 0 0 0;
 }
 
 pre {
   color: $hlorange;
+}
+
+th {
+  border-bottom: 1px dashed $hlorange;
 }
 
 hr {
