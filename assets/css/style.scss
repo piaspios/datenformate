@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$conifer: #fb7e14 !important;
+$hlorange: #fb7e14;
 
 body { 
   background: #333131 !important; 
@@ -20,28 +20,36 @@ body {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed $hlorange; //header;
   padding: 20px 0;
   margin: 0 0 20px 0;
+}
+
+header h1 {
+  color: $hlorange;//$header;
 }
 
 header h1::before {
   content: url("../images/pcicon.png") " ";
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: $hlorange;
+}
+
 footer {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-top: 1px dashed $conifer; //footer;
+  border-top: 1px dashed $hlorange; //footer;
   padding: 20px 0;
   margin: 20px 0 0 0;
 }
 
 pre {
-  color: $conifer;
+  color: $hlorange;
 }
 
 hr {
-  border-bottom: 1px dashed $conifer;
-  color: $conifer;
+  border-bottom: 1px dashed $hlorange;
+  color: $hlorange;
 }
