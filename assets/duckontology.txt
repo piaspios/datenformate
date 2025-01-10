@@ -1,0 +1,38 @@
+@prefix duck: <ducks> .
+@prefix schema: <https://schema.org> .
+@prefix foaf: <http://xmlns.com/foaf/spec/> .
+
+duck:donald schema:name "Donald Duck" .
+duck:donald schema:relatedTo duck:tick .
+duck:donald schema:relatedTo duck:trick .
+duck:donald schema:relatedTo duck:track .
+duck:donald foaf:nick "Phantomias" .
+duck:donald schema:homeLocation <https://de.wikipedia.org/wiki/Entenhausen> .
+duck:donald schema:identifier <https://d-nb.info/gnd/118875531> .
+
+
+duck:tick schema:name "Tick" .
+duck:tick schema:relatedTo duck:donald .
+duck:tick schema:sibling duck:trick .
+duck:tick schema:sibling duck:track .
+duck:tick schema:brand "Rot" .
+duck:tick schema:homeLocation <https://de.wikipedia.org/wiki/Entenhausen> .
+duck:tick schema:identifier <https://d-nb.info/gnd/1104405164> .
+
+
+duck:trick schema:name "Trick" .
+duck:trick schema:relatedTo duck:donald .
+duck:trick schema:sibling duck:tick .
+duck:trick schema:sibling duck:track .
+duck:trick schema:brand "Blau" .
+duck:trick schema:homeLocation <https://de.wikipedia.org/wiki/Entenhausen> .
+duck:trick schema:identifier <https://d-nb.info/gnd/1104405164> .
+
+
+duck:track schema:name "Track" .
+duck:track schema:relatedTo duck:donald .
+duck:track schema:sibling duck:tick .
+duck:track schema:sibling duck:trick .
+duck:track schema:brand "Grün" .
+duck:track schema:homeLocation <https://de.wikipedia.org/wiki/Entenhausen> .
+duck:track schema:identifier <https://d-nb.info/gnd/1104405164> .
