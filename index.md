@@ -24,7 +24,6 @@ title: Datenformate
 
 [Tag 7 - Linked Open Data](https://piaspios.github.io/datenformate/2025/01/25/tag7.html)
 
+[Tag 8 - Tools](https://piaspios.github.io/datenformate/2025/01/29/tag8.html)
 
-
-
-[Styles](https://piaspios.github.io/datenformate/2024/12/21/examples.html).
+[Fazit](https://piaspios.github.io/datenformate/2025/01/31/fazit.html)
